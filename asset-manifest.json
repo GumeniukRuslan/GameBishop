@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GameBishop/static/css/main.b5320759.css",
+    "main.js": "/GameBishop/static/js/main.476d2c49.js",
+    "index.html": "/GameBishop/index.html",
+    "main.b5320759.css.map": "/GameBishop/static/css/main.b5320759.css.map",
+    "main.476d2c49.js.map": "/GameBishop/static/js/main.476d2c49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5320759.css",
+    "static/js/main.476d2c49.js"
+  ]
+}
