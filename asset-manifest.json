@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/GameBishop/static/css/main.b5320759.css",
-    "main.js": "/GameBishop/static/js/main.d1637e87.js",
+    "main.js": "/GameBishop/static/js/main.db7bfc0f.js",
     "index.html": "/GameBishop/index.html",
     "main.b5320759.css.map": "/GameBishop/static/css/main.b5320759.css.map",
-    "main.d1637e87.js.map": "/GameBishop/static/js/main.d1637e87.js.map"
+    "main.db7bfc0f.js.map": "/GameBishop/static/js/main.db7bfc0f.js.map"
   },
   "entrypoints": [
     "static/css/main.b5320759.css",
-    "static/js/main.d1637e87.js"
+    "static/js/main.db7bfc0f.js"
   ]
 }
